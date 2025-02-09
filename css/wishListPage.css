@@ -1,0 +1,216 @@
+:root {
+    --white: #FFFFFF; 
+    --soft-grey: #F5F5F5; 
+    --black: #000000; 
+    --Forest-Green: #2E8B57; 
+    --Sand-Beige: #F4A460; 
+    --Clay-Orange: #D2691E; 
+    --Golden-Yellow: #FFD700; 
+    --Deep-Brown: #8B4513; 
+    --primaryColor: #008080;
+}
+
+  *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    border: none;
+    outline: none;
+    list-style-type: none;
+    scroll-behavior: smooth;
+  }
+
+  html {
+    overflow-x: hidden;
+}
+::-webkit-scrollbar{
+    width: 7px;
+}
+
+::-webkit-scrollbar-thumb{
+    background-color: var(--primaryColor);
+    border-radius: 2em;
+}
+::-webkit-scrollbar-track{
+    background-color: var(--bg-color);
+    margin-block: .3rem;
+
+}
+
+#header {
+    position: sticky;
+    top: 0;
+    background-color: var(--white);
+    z-index: 1000;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+}
+
+.logo h3 {
+  color: var(--primaryColor);
+}
+
+#logo-img {
+    width: 4em;
+    margin-left: 1em;
+    margin-right: 1rem;
+}
+
+.color-style {
+    color: var(--primaryColor);
+}
+
+.bg-color {
+    background-color: var(--primaryColor);
+}
+
+.btn-outline-style{
+    border: 0.5px solid var(--primaryColor);
+}
+
+.text-hover:hover {
+    color: var(--Sand-Beige);
+}
+
+.button-hover:hover {
+    background-color: var(--Sand-Beige);
+}
+
+.empty-wishlist {
+    font-size: 18px;
+    font-weight: bold;
+    color: #555;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100vw;
+  }
+  
+
+
+
+.wish-list-btn {
+    background-color: var(--primaryColor);
+    color: var(--white);
+    border: none;
+    padding: 8px 12px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-left: 1rem;
+}
+
+.wish-list-btn:hover {
+    background-color: transparent;
+    color: var(--primaryColor);
+    border: 1px solid var(--primaryColor);
+}
+
+.remove-btn {
+    background-color: red;
+    color: var(--white);
+    border: none;
+    padding: 8px 12px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-left: 1rem;
+}
+
+.remove-btn:hover {
+    background-color: transparent;
+    color: red;
+    border: 1px solid red;
+}
+#hotels-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+    max-width: 1200px;
+    width: 100%;
+    min-height: 100vh;
+}
+
+.internalCard {
+    margin-top: 30px;
+    border: 1px solid var(--soft-grey);
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    background: var(--white);
+    text-align: center;
+    max-height: 70vh;
+}
+
+.internalCard img {
+    width: 100%;
+    object-fit: cover;
+}
+
+.card-content {
+    padding: 1.5rem;
+}
+
+.internalCard h3 {
+    margin: 0;
+    font-size: 18px;
+}
+
+.internalCard p {
+    margin: 0.31rem 0;
+}
+
+.internalCard a {
+    display: inline-block;
+    margin-top: 0.62rem;
+    padding: 0.5rem 0.75rem;
+    background: var(--primaryColor);
+    color: var(--white);
+    text-decoration: none;
+    border-radius: 0.31rem;
+    border: 0.0625rem solid var(--primaryColor);
+}
+.internalCard a:hover{
+    background-color: transparent;
+    color: var(--primaryColor);
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+  }
+  
+  footer .footer-content {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  footer .footer-links a {
+    color: white;
+    margin: 0 10px;
+    text-decoration: none;
+  }
+  
+  footer .footer-links a:hover {
+    color: #ff7f50;
+  }
+
+
+
+
+  @media (max-width: 1024px) {
+    #hotels-container {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (max-width: 600px) {
+    #hotels-container {
+        grid-template-columns: repeat(1, 1fr);
+    }
+}
+
