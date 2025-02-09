@@ -1,0 +1,453 @@
+{
+    "ads": [
+    {
+      "position": 1,
+      "title": "Hyatt Place Uncasville / Casino Area",
+      "thumbnail": "https://serpapi.com/searches/67a47cdf448a3018fe9a040f/images/c7f05a0fe87645e3919eaf95573f22e6.jpeg",
+      "tracking_link": "https://www.google.com/aclk?sa=l&ai=DChcSEwiM68yT2q6LAxXp_OMHHdn9D4gYABAnGgJ5bQ&co=1&ase=2&gclid=EAIaIQobChMIjOvMk9quiwMV6fzjBx3Z_Q-IEAQYASACEgIvCvD_BwE&sig=AOD64_34fTapzxtzvjEQFFWXoQgDLSWXxw&nis=4&ved=2ahUKEwjJ2ceT2q6LAxXyQzABHWa2E88QhrUFegQIBhAU&adurl=",
+      "price": "$130",
+      "rating": 4.3,
+      "reviews": 1400,
+      "extensions": [
+        "Free cancellation",
+        "Restaurant",
+        "Pool"
+      ]
+    },
+    {
+      "position": 2,
+      
+      "title": "Hampton Inn Lehighton-Jim Thorpe",
+      "thumbnail": "https://serpapi.com/searches/67a47cdf448a3018fe9a040f/images/dc052b07f971f2696e4c97a456ade58b.jpeg",
+      "tracking_link": "https://www.google.com/aclk?sa=l&ai=DChcSEwiM68yT2q6LAxXp_OMHHdn9D4gYABAkGgJ5bQ&co=1&ase=2&gclid=EAIaIQobChMIjOvMk9quiwMV6fzjBx3Z_Q-IEAQYAiACEgKiovD_BwE&sig=AOD64_1WySMfttYBRi2t1lp0zibBlaMkVA&nis=4&ved=2ahUKEwjJ2ceT2q6LAxXyQzABHWa2E88QhrUFegQIBhAa&adurl=",
+      "price": "$131",
+      "rating": 4.5,
+      "reviews": 932,
+      "extensions": [
+        "Hot tub",
+        "Indoor pool",
+        "Pet-friendly"
+      ]
+    },
+    {
+      "position": 3,
+      
+      "title": "Holiday Inn Express & Suites Cooperstown",
+      "thumbnail": "https://serpapi.com/searches/67a47cdf448a3018fe9a040f/images/7938651726019bd276f295d149a543e3.jpeg",
+      "tracking_link": "https://www.google.com/aclk?sa=l&ai=DChcSEwiM68yT2q6LAxXp_OMHHdn9D4gYABAqGgJ5bQ&co=1&ase=2&gclid=EAIaIQobChMIjOvMk9quiwMV6fzjBx3Z_Q-IEAQYAyACEgKFMvD_BwE&sig=AOD64_32bg9NgSDaSHKIEMzPSTMKOHn3IA&nis=4&ved=2ahUKEwjJ2ceT2q6LAxXyQzABHWa2E88QhrUFegQIBhAg&adurl=",
+      "price": "$129",
+      "rating": 4.4,
+      "reviews": 352,
+      "extensions": [
+        "Free cancellation",
+        "Hot tub",
+        "Restaurant"
+      ]
+    },
+    {
+      "position": 4,
+      
+      "title": "Candlewood Suites Bethlehem South, an IHG Hotel",
+      "thumbnail": "https://serpapi.com/searches/67a47cdf448a3018fe9a040f/images/25fb2a9e4352e7d0477a1da8af59d155.jpeg",
+      "tracking_link": "https://www.google.com/aclk?sa=l&ai=DChcSEwiM68yT2q6LAxXp_OMHHdn9D4gYABApGgJ5bQ&co=1&ase=2&gclid=EAIaIQobChMIjOvMk9quiwMV6fzjBx3Z_Q-IEAQYBCACEgLLs_D_BwE&sig=AOD64_0oK5HiqCtsBgFTUZeKzmYOybo2CQ&nis=4&ved=2ahUKEwjJ2ceT2q6LAxXyQzABHWa2E88QhrUFegQIBhAm&adurl=",
+      "price": "$86",
+      "rating": 4.2,
+      "reviews": 471,
+      "extensions": [
+        "Free cancellation",
+        "Indoor pool",
+        "Pet-friendly"
+      ]
+    },
+    {
+      "position": 5,
+      
+      "title": "Four Points by Sheraton Newark Christiana Wilmington",
+      "thumbnail": "https://serpapi.com/searches/67a47cdf448a3018fe9a040f/images/791fcfc527e369dc7d0c4fa4d87ad829.jpeg",
+      "tracking_link": "https://www.google.com/aclk?sa=l&ai=DChcSEwiM68yT2q6LAxXp_OMHHdn9D4gYABAmGgJ5bQ&co=1&ase=2&gclid=EAIaIQobChMIjOvMk9quiwMV6fzjBx3Z_Q-IEAQYBSACEgK9AvD_BwE&sig=AOD64_3267oOugTR4VHn8IEFcep46Ks_zQ&nis=4&ved=2ahUKEwjJ2ceT2q6LAxXyQzABHWa2E88QhrUFegQIBhAs&adurl=",
+      "price": "$105",
+      "rating": 4.0,
+      "reviews": 741,
+      "extensions": [
+        "Restaurant",
+        "Pet-friendly",
+        "Bar"
+      ]
+    },
+    {
+      "position": 6,
+      
+      "title": "Hampton Inn Boston-Logan Airport",
+      "thumbnail": "https://lh3.googleusercontent.com/proxy/2PozUK8X9lfIOMIrJnjxVzhonI89dfNaJv9rAgZoC9lHLrziPgXl18GRqzWAcR647jOodqzGbO6OG1FyKHLwf6qOblhUwf14pjcX-bvkQZ7eWIH07FkWX65dxt1xsFmYl8T5JR4KFqB-y0pjg2qT1uEEPw5vBp4=w122-h64-n",
+      "tracking_link": "https://www.google.com/aclk?sa=l&ai=DChcSEwiM68yT2q6LAxXp_OMHHdn9D4gYABAjGgJ5bQ&co=1&ase=2&gclid=EAIaIQobChMIjOvMk9quiwMV6fzjBx3Z_Q-IEAQYBiACEgKNMPD_BwE&sig=AOD64_3JJ4S6cn-J2bZhuUzahK3gITdDTw&nis=4&ved=2ahUKEwjJ2ceT2q6LAxXyQzABHWa2E88QhrUFegQIBhAy&adurl=",
+      "price": "$88",
+      "rating": 3.8,
+      "reviews": 2900,
+      "extensions": [
+        "Hot tub",
+        "Restaurant",
+        "Indoor pool"
+      ]
+    },
+    {
+      "position": 7,
+      
+      "title": "Hilton Garden Inn Waldorf",
+      "thumbnail": "https://lh6.googleusercontent.com/proxy/Rbasv2Wjgv41r4bibp-obe9W_ojsljJBX4nG9pF6aOXIWSifn-TZHd0AsI4tr3zqz26s-ps7DROgsqOat5Gx2bocI3gvwt5h4q5lEWDjGhJ7ETB3yhW5aqvQ1h_70luNJIcszX3WgjkSwlMMDSJSR8Xw2rAlTw=w122-h64-n",
+      "tracking_link": "https://www.google.com/aclk?sa=l&ai=DChcSEwiM68yT2q6LAxXp_OMHHdn9D4gYABAcGgJ5bQ&co=1&ase=2&gclid=EAIaIQobChMIjOvMk9quiwMV6fzjBx3Z_Q-IEAQYByACEgJHK_D_BwE&sig=AOD64_1thCHAdujGdZ8rYHT8oXan2RocEQ&nis=4&ved=2ahUKEwjJ2ceT2q6LAxXyQzABHWa2E88QhrUFegQIBhA4&adurl=",
+      "price": "$131",
+      "rating": 4.0,
+      "reviews": 970,
+      "extensions": [
+        "Hot tub",
+        "Restaurant",
+        "Indoor pool"
+      ]
+    },
+    {
+      "position": 8,
+      
+      "title": "Hilton Garden Inn BWI Airport",
+      "thumbnail": "https://lh5.googleusercontent.com/proxy/B0DxiQ9P_r6E2jS_IO-pBhFCMKiFnEmOKf95yJa3gSFmjHoQiINoZ493l5nTBnQnJRzVR8ugSJmf-dKrufmcepHoixaJ_KQ-zKGBr7iuntoGQ3G7U6BOoH1K2KY4QEcOWz9QaSHGfHobBStXhY_ZHv19aQ3bXU8=w122-h64-n",
+      "tracking_link": "https://www.google.com/aclk?sa=l&ai=DChcSEwiM68yT2q6LAxXp_OMHHdn9D4gYABAiGgJ5bQ&co=1&ase=2&gclid=EAIaIQobChMIjOvMk9quiwMV6fzjBx3Z_Q-IEAQYCCACEgIy5vD_BwE&sig=AOD64_3UXGKL1xySd9-AokyFPSse0K7yXQ&nis=4&ved=2ahUKEwjJ2ceT2q6LAxXyQzABHWa2E88QhrUFegQIBhA-&adurl=",
+      "price": "$125",
+      "rating": 4.1,
+      "reviews": 1300,
+      "extensions": [
+        "Restaurant",
+        "Indoor pool",
+        "Pet-friendly"
+      ]
+    },
+    {
+      "position": 9,
+      
+      "title": "Embassy Suites by Hilton Bethesda Washington DC",
+      "thumbnail": "https://lh4.googleusercontent.com/proxy/nT_F4EHcmWsrSzg2huqIrywmsRuV8t-bJtDQw3_wXbvtYcZuWvGz4FLhVB-OassEnlAmogw-Hz8c3U2jKPDP7l-oT57meUNGc8dj5iIAZUKe3tIaMLdhhjFRj_jvackcV8HTCmEQUNB2yrAEwiAymvLaVQoRSOk=w122-h64-n",
+      "tracking_link": "https://www.google.com/aclk?sa=l&ai=DChcSEwiM68yT2q6LAxXp_OMHHdn9D4gYABAlGgJ5bQ&co=1&ase=2&gclid=EAIaIQobChMIjOvMk9quiwMV6fzjBx3Z_Q-IEAQYCSACEgL-uvD_BwE&sig=AOD64_25fY_bBMNyMbJwps8XuiUQMzwSBA&nis=4&ved=2ahUKEwjJ2ceT2q6LAxXyQzABHWa2E88QhrUFegQIBhBE&adurl=",
+      "price": "$159",
+      "rating": 4.3,
+      "reviews": 1400,
+      "extensions": [
+        "Hot tub",
+        "Restaurant",
+        "Indoor and outdoor pool"
+      ]
+    },
+    {
+      "position": 10,
+      
+      "title": "Days Inn & Suites by Wyndham Cambridge",
+      "thumbnail": "https://lh4.googleusercontent.com/proxy/Eh1T7Q4EEmRwASbwSPw0DJi0KMHno39F7ey7sOEP9W9lMR614y3FMqlYzkzPAXkkRlLcAqTEgDRAdj6TmH5SFCeJdlxoNN5Irx-r6LZLzzn0Nlt5r54H3AXK9I5R8QR59Dligs_n2t2-yBGr2djCAF4v2bsb-A=w122-h64-n",
+      "tracking_link": "https://www.google.com/aclk?sa=l&ai=DChcSEwiM68yT2q6LAxXp_OMHHdn9D4gYABAsGgJ5bQ&co=1&ase=2&gclid=EAIaIQobChMIjOvMk9quiwMV6fzjBx3Z_Q-IEAQYCiACEgLFDvD_BwE&sig=AOD64_1LvhbQAwOistDSzsbjPYIpiDmaRQ&nis=4&ved=2ahUKEwjJ2ceT2q6LAxXyQzABHWa2E88QhrUFegQIBhBK&adurl=",
+      "price": "$56",
+      "rating": 3.3,
+      "reviews": 302,
+      "extensions": [
+        "Restaurant",
+        "Outdoor pool",
+        "Free breakfast"
+      ]
+    },
+    {
+      "position": 11,
+      
+      "title": "The Manhattan at Times Square Hotel",
+      "thumbnail": "https://lh6.googleusercontent.com/proxy/feoFAsRq6_kdUVWIRJKcnH1wBjM2lNLVG4bddzwBuNSJaF-sp0nzOhNRIAV4qKcsYG5Zi1nBmHxHEBOhqnPOi5NK-0SMf7us52eqW9irMBtlykjIDFFcQDuklixPCkL_Yu965JWCbLlLXD6jswCdtcERlWtgLQ=w122-h64-n",
+      "tracking_link": "https://www.google.com/aclk?sa=l&ai=DChcSEwiM68yT2q6LAxXp_OMHHdn9D4gYABArGgJ5bQ&co=1&ase=2&gclid=EAIaIQobChMIjOvMk9quiwMV6fzjBx3Z_Q-IEAQYCyACEgJ88PD_BwE&sig=AOD64_1qiwPhbmCpP-QqiVPXW2Cv1OIh5Q&nis=4&ved=2ahUKEwjJ2ceT2q6LAxXyQzABHWa2E88QhrUFegQIBhBQ&adurl=",
+      "price": "$66",
+      "rating": 3.1,
+      "reviews": 8900,
+      "extensions": [
+        "Free cancellation",
+        "Restaurant",
+        "Pet-friendly"
+      ]
+    },
+    {
+      "position": 12,
+      
+      "title": "Embassy Suites by Hilton Washington DC Chevy Chase Pavilion",
+      "thumbnail": "https://lh4.googleusercontent.com/proxy/BuLtfOG6MiSyj6X-xsUK7YH-9gC2BK-7XJhx2wmZXEw_5hntXtgaCZvLXlBaLDClNjZl4HW_rsJzgd73YGgrJ8tHPGcF2eMu7uweTXXiCVMYkqr5xe_S6VBo2FxngRrcQjaQeYrD90-Tqr6BJthT9nUNlEclTyY=w122-h64-n",
+      "tracking_link": "https://www.google.com/aclk?sa=l&ai=DChcSEwiM68yT2q6LAxXp_OMHHdn9D4gYABAoGgJ5bQ&co=1&ase=2&gclid=EAIaIQobChMIjOvMk9quiwMV6fzjBx3Z_Q-IEAQYDCACEgKftPD_BwE&sig=AOD64_1TnJw3iUor_63DlZZlxMLJFWEIzQ&nis=4&ved=2ahUKEwjJ2ceT2q6LAxXyQzABHWa2E88QhrUFegQIBhBW&adurl=",
+      "price": "$197",
+      "rating": 4.0,
+      "reviews": 1200,
+      "extensions": [
+        "Hot tub",
+        "Restaurant",
+        "Indoor pool"
+      ]
+    },
+    {
+      "position": 13,
+      
+      "title": "Holiday Inn Express & Suites Chester-Monroe-Goshen, an IHG Hotel",
+      "thumbnail": "https://lh5.googleusercontent.com/proxy/IWDxDWdbOpPZFJQCBnmxFJXbJoEk9hCd6T-vOyyquuHVAi43AHAxXel6PyKGs9OP4emV24HuiYpmR3r6F_r1HPHBn_rBXiskNxTmZTJprhkGpQdIV4VkrTqR3We7rtDCG2dxKOKHzwa423BEcuK5DsZgCd_sKA0=w122-h64-n",
+      "tracking_link": "https://www.google.com/aclk?sa=l&ai=DChcSEwiM68yT2q6LAxXp_OMHHdn9D4gYABAwGgJ5bQ&co=1&ase=2&gclid=EAIaIQobChMIjOvMk9quiwMV6fzjBx3Z_Q-IEAQYDSACEgIZdPD_BwE&sig=AOD64_1k3g6Q_7XWVxCs_QepzT8eSwGmFg&nis=4&ved=2ahUKEwjJ2ceT2q6LAxXyQzABHWa2E88QhrUFegQIBhBc&adurl=",
+      "price": "$93",
+      "rating": 4.0,
+      "reviews": 630,
+      "extensions": [
+        "Free cancellation",
+        "Restaurant",
+        "Indoor pool"
+      ]
+    },
+    {
+      "position": 14,
+      
+      "title": "Embassy Suites by Hilton Dulles Airport",
+      "thumbnail": "https://lh6.googleusercontent.com/proxy/ulWrNE4MdQuWD-EofHL0u-ZOZeOLje6gAFO7l96wLZGTlfzb9eKFWKZyUaKMfO2HtGJhZeFrfODC8Pbu_giuCeh7FwlOLqf7mcMyrNu_hU88j93oqjDVCco-Dr70OUq8wE4MGJY9PdOhV96AWW5oNOGoabAe3A=w122-h64-n",
+      "tracking_link": "https://www.google.com/aclk?sa=l&ai=DChcSEwiM68yT2q6LAxXp_OMHHdn9D4gYABAtGgJ5bQ&co=1&ase=2&gclid=EAIaIQobChMIjOvMk9quiwMV6fzjBx3Z_Q-IEAQYDiACEgKTXvD_BwE&sig=AOD64_053jVIMc9NGCyJ7FrUX0AJK3Q_3Q&nis=4&ved=2ahUKEwjJ2ceT2q6LAxXyQzABHWa2E88QhrUFegQIBhBi&adurl=",
+      "price": "$252",
+      "rating": 4.1,
+      "reviews": 1700,
+      "extensions": [
+        "Hot tub",
+        "Restaurant",
+        "Indoor pool"
+      ]
+    },
+    {
+      "position": 15,
+      
+      "title": "Courtyard Long Island MacArthur Airport",
+      "thumbnail": "https://lh4.googleusercontent.com/proxy/KI2dcvpGh13v_j3jBXqBjKxU8EStkz9Oh1yYofg-k0lfaQuSvgznJoNH74W5JkJ2bjtteJ-TGVBRFb-c8Q6ddShoPuQcqyzj0tojlGwxX1BiMQc_YMCLPd2ByCKDGy9aQs7TOjWOfNCORro1fFGbzj0vUGQl3A=w122-h64-n",
+      "tracking_link": "https://www.google.com/aclk?sa=l&ai=DChcSEwiM68yT2q6LAxXp_OMHHdn9D4gYABAuGgJ5bQ&co=1&ase=2&gclid=EAIaIQobChMIjOvMk9quiwMV6fzjBx3Z_Q-IEAQYDyACEgJNMvD_BwE&sig=AOD64_0u2SK7FuMA7SPxuRDWeHLAcZP_4g&nis=4&ved=2ahUKEwjJ2ceT2q6LAxXyQzABHWa2E88QhrUFegQIBhBo&adurl=",
+      "price": "$136",
+      "rating": 4.1,
+      "reviews": 845,
+      "extensions": [
+        "Free cancellation",
+        "Restaurant",
+        "Indoor pool"
+      ]
+    },
+    {
+      "position": 16,
+      
+      "title": "Wind Creek Bethlehem",
+      "thumbnail": "https://lh4.googleusercontent.com/proxy/82aImyUu83tpm5pxPAKOmJWUhjlRI3yH3fjDLXn0W7ESvltIHfc2E-hsHR_wgKxsZa_UzOUpIOP_ydQcyNnwlmpxZuCNgtuOdI-LWMmtJnS-GVxsqQWu2MmTSXWCf9Pc42ZjeA0BpqsNfNULVUsWfpyALCa90bs=w122-h64-n",
+      "tracking_link": "https://www.google.com/aclk?sa=l&ai=DChcSEwiM68yT2q6LAxXp_OMHHdn9D4gYABAgGgJ5bQ&co=1&ase=2&gclid=EAIaIQobChMIjOvMk9quiwMV6fzjBx3Z_Q-IEAQYECACEgIJBPD_BwE&sig=AOD64_2c2W0VWcdCnOOjQGxi65jRiot0RQ&nis=4&ved=2ahUKEwjJ2ceT2q6LAxXyQzABHWa2E88QhrUFegQIBhBu&adurl=",
+      "price": "$169",
+      "rating": 4.2,
+      "reviews": 19000,
+      "extensions": [
+        "Free cancellation",
+        "Restaurant",
+        "Spa"
+      ]
+    },
+    {
+      "position": 17,
+      
+      "title": "Hyatt Regency Long Island",
+      "thumbnail": "https://lh3.googleusercontent.com/proxy/gn1eV3Auw98HdE52ejFmSQmNLYFjLP-IE_Txk7ZYBtf0WDs9JREGkMMlVpoBGnsMHxo5ax1S-wNaXKKNwzYV1rGoGDgdxghkER33ihTJ8t4uu_FvgitO20HVQpFs1v9IJGjOof3svOcfMBxPbD8pA1g5GlXWIg=w122-h64-n",
+      "tracking_link": "https://www.google.com/aclk?sa=l&ai=DChcSEwiM68yT2q6LAxXp_OMHHdn9D4gYABA7GgJ5bQ&ae=2&co=1&ase=2&gclid=EAIaIQobChMIjOvMk9quiwMV6fzjBx3Z_Q-IEAQYESACEgKLqPD_BwE&sig=AOD64_2nNA7xVTmneQIdqj4OujO7jgH7Qg&nis=4&ved=2ahUKEwjJ2ceT2q6LAxXyQzABHWa2E88QhrUFegQIBhB0&adurl=",
+      "price": "$144",
+      "rating": 4.0,
+      "reviews": 1800,
+      "extensions": [
+        "Restaurant",
+        "Indoor and outdoor pool",
+        "Bar"
+      ]
+    },
+    {
+      "position": 18,
+      
+      "title": "Hotel Nyack - JDV by Hyatt",
+      "thumbnail": "https://lh6.googleusercontent.com/proxy/gYxXFulQfKSmNUrYNvMDCnonIv6qPPAkbAzxJ1FGsh0IKuoiUZaUDgC7gSxJiWJuWDcdfoyYrIxNrKAm-jOC4CSrtx63injO06t8NA5brNP6rwnSd7OSAJP_IrlL-nzIIC6wGiZfsTDhqhSseFyrmihMXsd1_A=w122-h64-n",
+      "tracking_link": "https://www.google.com/aclk?sa=l&ai=DChcSEwiM68yT2q6LAxXp_OMHHdn9D4gYABBJGgJ5bQ&co=1&ase=2&gclid=EAIaIQobChMIjOvMk9quiwMV6fzjBx3Z_Q-IEAQYEiACEgILaPD_BwE&sig=AOD64_1JsEB8ZAq1KmGnl9Apc510zS9WkA&nis=4&ved=2ahUKEwjJ2ceT2q6LAxXyQzABHWa2E88QhrUFegQIBhB6&adurl=",
+      "price": "$127",
+      "rating": 3.9,
+      "reviews": 1400,
+      "extensions": [
+        "Free cancellation",
+        "Restaurant",
+        "Pool"
+      ]
+    },
+    {
+      "position": 19,
+      
+      "title": "DoubleTree by Hilton Virginia Beach Oceanfront South",
+      "thumbnail": "https://lh3.googleusercontent.com/proxy/V4JXhwFm3xPOJfzco5zK_D9zLQ35HpO74bN7pR27CpAOq-sB5KDdCZj2EXmPdCnt67nlNMQHLX4KHqAvDup4odDV4IpFIwhed3b1vznU2nctt5By9YhaK2CQTDrOrptlTCMsHNteLC6wSfxZlklXOhhIXLeUhjo=w122-h64-n",
+      "tracking_link": "https://www.google.com/aclk?sa=l&ai=DChcSEwiM68yT2q6LAxXp_OMHHdn9D4gYABBLGgJ5bQ&co=1&ase=2&gclid=EAIaIQobChMIjOvMk9quiwMV6fzjBx3Z_Q-IEAQYEyACEgLlifD_BwE&sig=AOD64_3-utqBjN-eM_tZn0icqwcb-vnZqQ&nis=4&ved=2ahUKEwjJ2ceT2q6LAxXyQzABHWa2E88QhrUFegUIBhCAAQ&adurl=",
+      "price": "$105",
+      "rating": 3.8,
+      "reviews": 834,
+      "extensions": [
+        "Beach access",
+        "Restaurant",
+        "Indoor pool"
+      ]
+    },
+    {
+      "position": 20,
+      
+      "title": "Holiday Inn Express Bradford, an IHG Hotel",
+      "thumbnail": "https://lh3.googleusercontent.com/proxy/jd37yPuBbx3xn_KcJQXpF6Ibl29kdJzJuIyEB9xrREltxi0kgsVYjm6tQ4wyX-k5f1kVu4AktK9pLQg91clFuGtdpt9kvWet1kzKxwhjgbzSaGZ3gwlLoEbFRhQaF4lIWchekgiaHds77KmBfYKqoat_5d6oyOo=w122-h64-n",
+      "tracking_link": "https://www.google.com/aclk?sa=l&ai=DChcSEwiM68yT2q6LAxXp_OMHHdn9D4gYABBHGgJ5bQ&co=1&ase=2&gclid=EAIaIQobChMIjOvMk9quiwMV6fzjBx3Z_Q-IEAQYFCACEgK-ifD_BwE&sig=AOD64_3etezEDpz1r6wqZErzz6OU_vzx-Q&nis=4&ved=2ahUKEwjJ2ceT2q6LAxXyQzABHWa2E88QhrUFegUIBhCGAQ&adurl=",
+      "price": "$109",
+      "rating": 4.2,
+      "reviews": 503,
+      "extensions": [
+        "Free cancellation",
+        "Indoor pool",
+        "Pet-friendly"
+      ]
+    },
+    {
+      "position": 21,
+      
+      "title": "Hilton Garden Inn Springfield, NJ",
+      "thumbnail": "https://lh3.googleusercontent.com/proxy/BRMYuZdTZJ4ENCnmltjlqE3Dr5UTimHyXvw8BFuiXOoA57nFVDlhf6_zMpsleyFyAomaOS8ZFzRReBEbOfVUPEKz4Ub51w23adS0QdS5dCvgqJuvkNncXxznw2D0Eqx7BHVcGHgY3FEXRvLcJFUl3v2R4TErTA=w122-h64-n",
+      "tracking_link": "https://www.google.com/aclk?sa=l&ai=DChcSEwiM68yT2q6LAxXp_OMHHdn9D4gYABBSGgJ5bQ&co=1&ase=2&gclid=EAIaIQobChMIjOvMk9quiwMV6fzjBx3Z_Q-IEAQYFSACEgL7hPD_BwE&sig=AOD64_0j_ZkH8rzNyEPnHcm1tpNw7BycRA&nis=4&ved=2ahUKEwjJ2ceT2q6LAxXyQzABHWa2E88QhrUFegUIBhCMAQ&adurl=",
+      "price": "$178",
+      "rating": 4.4,
+      "reviews": 1100,
+      "extensions": [
+        "Free cancellation",
+        "Restaurant",
+        "Indoor pool"
+      ]
+    },
+    {
+      "position": 22,
+      
+      "title": "Hampton Inn & Suites Hershey Near The Park",
+      "thumbnail": "https://lh4.googleusercontent.com/proxy/xk7Y2kgprOIEwPy82WkUFg9wgTP9IMl5Getg5-_Wlh1GO3G3UtY2Qau5V_ZEEJ_AhElyQI5MuaK4o_Ri-3uK6xk5xMTF29L9RnKdr42YpYvUDaFqPUAK9KuHUSZuwLu7I2jnoFzd4zs5ONfiIrYX2R_QfWb7IQ=w122-h64-n",
+      "tracking_link": "https://www.google.com/aclk?sa=l&ai=DChcSEwiM68yT2q6LAxXp_OMHHdn9D4gYABBQGgJ5bQ&co=1&ase=2&gclid=EAIaIQobChMIjOvMk9quiwMV6fzjBx3Z_Q-IEAQYFiACEgJIj_D_BwE&sig=AOD64_14_Hhs62QitNCRe9Hfy_VfzL8z0w&nis=4&ved=2ahUKEwjJ2ceT2q6LAxXyQzABHWa2E88QhrUFegUIBhCSAQ&adurl=",
+      "price": "$107",
+      "rating": 4.2,
+      "reviews": 659,
+      "extensions": [
+        "Indoor pool",
+        "Pet-friendly",
+        "Free breakfast"
+      ]
+    },
+    {
+      "position": 23,
+      
+      "title": "WoodSpring Suites Allentown",
+      "thumbnail": "https://lh4.googleusercontent.com/proxy/K5bD354p6aWWM-cVeckIwv73nDKYOyQeAoof2rw1ueA_34aKdLbr7TZL0pTsNCR2pLHznFZb5e5O0hRn5YSw7XfA8thC58Hxwv49FyA32uW6ZpoNjeDvk2xgv50Izm8_-6LpwGEQ_UKQzFvAbTnFWeLg7D_FfA=w122-h64-n",
+      "tracking_link": "https://www.google.com/aclk?sa=l&ai=DChcSEwiM68yT2q6LAxXp_OMHHdn9D4gYABBTGgJ5bQ&co=1&ase=2&gclid=EAIaIQobChMIjOvMk9quiwMV6fzjBx3Z_Q-IEAQYFyACEgJ-qfD_BwE&sig=AOD64_1xxH8103tU8sLg3TIkxgK5mCgPlQ&nis=4&ved=2ahUKEwjJ2ceT2q6LAxXyQzABHWa2E88QhrUFegUIBhCYAQ&adurl=",
+      "price": "$71",
+      "rating": 3.5,
+      "reviews": 521,
+      "extensions": [
+        "Free cancellation",
+        "Pet-friendly",
+        "Free parking"
+      ]
+    },
+    {
+      "position": 24,
+      
+      "title": "DoubleTree by Hilton Front Royal Blue Ridge Shadows",
+      "thumbnail": "https://lh3.googleusercontent.com/proxy/qPqwNufB3VR04ZGQ0ktx2sTa7rDBbxOr3Pt1cixgKCyV_VTVdP73tK1zsz-RlO1dVHdRd5HqSLCj6LIiz--KaYVauel8HQVHn1SJPm_Uw7VxksRWVSBO4ZCGu5yCnZhtuCBUThh3ryjIJpI0e4rK2SjFCaKPdMA=w122-h64-n",
+      "tracking_link": "https://www.google.com/aclk?sa=l&ai=DChcSEwiM68yT2q6LAxXp_OMHHdn9D4gYABBNGgJ5bQ&co=1&ase=2&gclid=EAIaIQobChMIjOvMk9quiwMV6fzjBx3Z_Q-IEAQYGCACEgKIufD_BwE&sig=AOD64_3Bq4CfXFgfFur1Z7cG0n8LcJ_Hyg&nis=4&ved=2ahUKEwjJ2ceT2q6LAxXyQzABHWa2E88QhrUFegUIBhCeAQ&adurl=",
+      "price": "$102",
+      "rating": 4.3,
+      "reviews": 825,
+      "extensions": [
+        "Hot tub",
+        "Restaurant",
+        "Indoor pool"
+      ]
+    },
+    {
+      "position": 25,
+      
+      "title": "DoubleTree by Hilton Hotel Philadelphia Center City",
+      "thumbnail": "https://lh5.googleusercontent.com/proxy/JUhf-KvcIUng92-yJSOpSEIvq0Qs_9P98AfRmNjN4WF7E5j7ZaQa6ko6jsomxvKLScBmO4cZqZ6V74ZYWbtTE9AedYP_zPBGBTt-ZXgVGSRTJlR_HK6FqNzTd48I8dGGtuBIlQktwLRwhymoWNdnbyJz1xhCoA=w122-h64-n",
+      "tracking_link": "https://www.google.com/aclk?sa=l&ai=DChcSEwiM68yT2q6LAxXp_OMHHdn9D4gYABBOGgJ5bQ&co=1&ase=2&gclid=EAIaIQobChMIjOvMk9quiwMV6fzjBx3Z_Q-IEAQYGSACEgKyg_D_BwE&sig=AOD64_0WCnDrtPA2CfpeOCuAvTEWfuyKnQ&nis=4&ved=2ahUKEwjJ2ceT2q6LAxXyQzABHWa2E88QhrUFegUIBhCkAQ&adurl=",
+      "price": "$209",
+      "rating": 4.1,
+      "reviews": 4300,
+      "extensions": [
+        "Free cancellation",
+        "Restaurant",
+        "Indoor pool"
+      ]
+    },
+    {
+      "position": 26,
+      
+      "title": "Holiday Inn Express & Suites Bethlehem Arpt-Allentown Area",
+      "thumbnail": "https://lh3.googleusercontent.com/proxy/bOL0ttu8-QbCw4Dlj-3YtSp3VVNgB8kXj1HORNezsz2Ut-VMeiJfSL01jIwi7zKVS7ZJHYZMd0KlwRmqptD-HAxd2yI6BjbCzNGWoPPsuOzwFa034IGhR2Tu4Z-m4EM8q2dJSNcZYBuEGyuN0PAtw0fyUiJKEOs=w122-h64-n",
+      "tracking_link": "https://www.google.com/aclk?sa=l&ai=DChcSEwiM68yT2q6LAxXp_OMHHdn9D4gYABBRGgJ5bQ&co=1&ase=2&gclid=EAIaIQobChMIjOvMk9quiwMV6fzjBx3Z_Q-IEAQYGiACEgLaXPD_BwE&sig=AOD64_2M98b8pxZz0zBAQsRkQO-pDZpAfg&nis=4&ved=2ahUKEwjJ2ceT2q6LAxXyQzABHWa2E88QhrUFegUIBhCqAQ&adurl=",
+      "price": "$114",
+      "rating": 4.2,
+      "reviews": 546,
+      "extensions": [
+        "Free cancellation",
+        "Restaurant",
+        "Outdoor pool"
+      ]
+    },
+    {
+      "position": 27,
+      
+      "title": "Comfort Suites Scranton near Montage Mountain",
+      "thumbnail": "https://lh6.googleusercontent.com/proxy/kcRnSVU2qtO7ZJEuJR_VwNZpUelyFQZmysjrjdJQXluFkC-s0xDg8yBHZUD2gPalzyKwNPPSB5SEJZDw5B6hc78mf1lyoHWC3BtwOQYXmQB03okWCmiCFVMOSoIcSmpWSeCDlJpbraHR5zPhn2ZyN6pKjSgLmg=w122-h64-n",
+      "tracking_link": "https://www.google.com/aclk?sa=l&ai=DChcSEwiM68yT2q6LAxXp_OMHHdn9D4gYABBXGgJ5bQ&co=1&ase=2&gclid=EAIaIQobChMIjOvMk9quiwMV6fzjBx3Z_Q-IEAQYGyACEgJZbvD_BwE&sig=AOD64_0lefzgQKVXK0OT1oBSVX1sYx-lOg&nis=4&ved=2ahUKEwjJ2ceT2q6LAxXyQzABHWa2E88QhrUFegUIBhCwAQ&adurl=",
+      "price": "$87",
+      "rating": 4.0,
+      "reviews": 925,
+      "extensions": [
+        "Free cancellation",
+        "Hot tub",
+        "Indoor and outdoor pool"
+      ]
+    },
+    {
+      "position": 28,
+      
+      "title": "Hampton Inn & Suites Robbinsville",
+      "thumbnail": "https://lh4.googleusercontent.com/proxy/jj9c0xpHapAkGRGLtSdbDCXYfey0mxeRBJErT490sT2ALJhcMlPCXYZpt8FRE4_3809idCVRMqxODatTrd2KiVFSjQXvcRR9AMZzkAXRVzLID3JXDM_AKCQEahdbURXYPebVR3rT0hrm7S5yUOG7y-eix-0i7N8=w122-h64-n",
+      "tracking_link": "https://www.google.com/aclk?sa=l&ai=DChcSEwiM68yT2q6LAxXp_OMHHdn9D4gYABBWGgJ5bQ&co=1&ase=2&gclid=EAIaIQobChMIjOvMk9quiwMV6fzjBx3Z_Q-IEAQYHCACEgKy0fD_BwE&sig=AOD64_38VVC3CNOI9q-IHEvwzD2H7L0zXA&nis=4&ved=2ahUKEwjJ2ceT2q6LAxXyQzABHWa2E88QhrUFegUIBhC2AQ&adurl=",
+      "price": "$127",
+      "rating": 4.3,
+      "reviews": 970,
+      "extensions": [
+        "Indoor pool",
+        "Pet-friendly",
+        "Free breakfast"
+      ]
+    },
+    {
+      "position": 29,
+      
+      "title": "Gaithersburg Marriott Washingtonian Center",
+      "thumbnail": "https://lh4.googleusercontent.com/proxy/psKMI9oOQCvN526EjanX7n1NpvnhQCd3Fb39Ae5Z4u6yyE1PLhZJwzhfe31gKDcO8d5A0zEoY5g84OtIIrwXeSkwfp2mIALBFuau_Y5hk0uCXvWu_TEYjf54fddVJTijzajJB87Adjfs6dPIqAU4ZL6EKVHvCA=w122-h64-n",
+      "tracking_link": "https://www.google.com/aclk?sa=l&ai=DChcSEwiM68yT2q6LAxXp_OMHHdn9D4gYABBYGgJ5bQ&co=1&ase=2&gclid=EAIaIQobChMIjOvMk9quiwMV6fzjBx3Z_Q-IEAQYHSACEgKK8vD_BwE&sig=AOD64_300pxSyTGV0fHZlAXcsFixgeicDA&nis=4&ved=2ahUKEwjJ2ceT2q6LAxXyQzABHWa2E88QhrUFegUIBhC8AQ&adurl=",
+      "price": "$239",
+      "rating": 4.5,
+      "reviews": 1100,
+      "extensions": [
+        "Free cancellation",
+        "Restaurant",
+        "Bar"
+      ]
+    },
+    {
+      "position": 30,
+      
+      "title": "Holiday Inn Express Boston-Waltham, an IHG Hotel",
+      "thumbnail": "https://lh5.googleusercontent.com/proxy/pz1NeNjilPXpwv00-ibd-Xo2l-bAcz34eMSGZZ6HedA__okYm0aF9qHf72SLaoNJILdhXWy89Ypu4uEj4zHos3byw5uSaJzvu4t8q7oRXo46xZgOxOpOQ1yylfrxbutcmBn_oGtYGFAJnsiRY1NmPrTglzgoLUU=w122-h64-n",
+      "tracking_link": "https://www.google.com/aclk?sa=l&ai=DChcSEwiM68yT2q6LAxXp_OMHHdn9D4gYABBZGgJ5bQ&co=1&ase=2&gclid=EAIaIQobChMIjOvMk9quiwMV6fzjBx3Z_Q-IEAQYHiACEgKAzPD_BwE&sig=AOD64_3IIKDvjvvQTtJVm1zHUOoCo4W_MQ&nis=4&ved=2ahUKEwjJ2ceT2q6LAxXyQzABHWa2E88QhrUFegUIBhDCAQ&adurl=",
+      "price": "$123",
+      "rating": 4.4,
+      "reviews": 727,
+      "extensions": [
+        "Restaurant",
+        "Pet-friendly",
+        "Free breakfast"
+      ]
+    }
+  ]
+}
