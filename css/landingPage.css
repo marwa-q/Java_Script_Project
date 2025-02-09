@@ -1,0 +1,382 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  border: none;
+  outline: none;
+  list-style-type: none;
+  scroll-behavior: smooth;
+}
+
+html {
+  font-size: 60%;
+  overflow-x: hidden;
+}
+
+
+:root {
+  --primaryColor: #008080;
+  --white: #FFFFFF; 
+  --soft-grey: #F5F5F5; 
+  --black: #000000; 
+  --Forest-Green: #2E8B57; 
+  --Sand-Beige: #F4A460; 
+  --Clay-Orange: #D2691E; 
+  --Golden-Yellow: #FFD700; 
+  --Deep-Brown: #8B4513; 
+}
+
+/*Header section*/
+
+#header {
+  position: sticky;
+  top: 0;
+  background-color: var(--white);
+  z-index: 1000;
+}
+
+.logo {
+display: flex;
+align-items: center;
+}
+
+.logo h3 {
+color: var(--primaryColor);
+}
+
+#logo-img {
+  width: 4em;
+  margin-left: 1em;
+  margin-right: 1rem;
+}
+
+.color-style {
+  color: var(--primaryColor);
+}
+
+.bg-color {
+  background-color: var(--primaryColor);
+}
+
+.btn-outline-style{
+  border: 0.5px solid var(--primaryColor);
+}
+
+.text-hover:hover {
+  color: var(--Sand-Beige);
+}
+
+.button-hover:hover {
+  background-color: var(--Sand-Beige);
+}
+
+/* Hero Section */
+#hero {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--white);
+  text-align: center;
+  padding: 0 20px;
+
+}
+
+#travel-img {
+  width: 30vw;
+}
+
+#hero h1 {
+  font-size: 3rem;
+  margin-bottom: 20px;
+  color: var(--black);
+}
+
+#hero p {
+  font-size: 1.5rem;
+  margin-bottom: 30px;
+  color: var(--black);
+
+}
+
+.cta-button {
+  background-color: var(--Clay-Orange);
+  color: var(--white);
+  padding: 15px 30px;
+  font-size: 1rem;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+.cta-button:hover {
+  background-color: var(--Sand-Beige);
+}
+
+/* Services Section */
+
+#services {
+  padding: 30px 20px;
+  text-align: center;
+}
+
+.services-content {
+  margin-top: 5rem;
+}
+
+#services h2 {
+  font-size: 2.5rem;
+  margin-bottom: 30px;
+}
+
+.services-container {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.service {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-color: var(--white);
+  border-radius: 8px;
+  padding: 20px;
+  width: 250px;
+  height: 250px;
+  margin: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.service i {
+  color: #D2691E; 
+  font-size: 3rem;
+  margin-bottom: 30px;
+}
+
+.service h3 {
+  font-size: 1.5rem;
+  margin-bottom: 10px;
+}
+
+.service p {
+  font-size: 1rem;
+}
+
+/* New Destinations Section */
+
+#new-destinations {
+  padding: 50px 20px;
+  text-align: center;
+}
+
+#new-destinations h2 {
+  font-size: 2.5rem;
+  margin-bottom: 30px;
+}
+
+.destinations-container {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.destination {
+  width: auto;
+  margin: 15px;
+}
+
+.img-box {
+  width: 300px;
+  height: 200px;
+  margin: 15px;
+}
+
+.destination img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 8px;
+}
+
+.destination p {
+  font-size: 1.5rem;
+  margin-top: 10px;
+}
+
+/*Best seller*/
+
+.whyTravelWithUs{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 4rem;
+  padding: 0 8vw ;
+  padding-bottom:10vh ;
+
+}
+.whyTravelWithUs > h2{
+  align-self: center;
+  font-size: 4rem;
+}
+.whyTravelWithUsCardContainer{
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(28rem, 1fr)); 
+  gap: 2rem;
+}
+
+.whyTravelWithUs .whyTravelWithUsCard{
+height: 40vh;
+text-align: center;
+justify-content: center;
+display: flex;
+flex-direction: column;
+gap: 2rem;
+border-radius: 2rem;
+}
+
+.whyTravelWithUs .whyTravelWithUsCard >h3{
+  font-size: 3rem;
+}
+.whyTravelWithUs .whyTravelWithUsCard >p{
+  font-size: 2rem;
+}
+
+.whyTravelWithUsCard > i{
+  font-size: 5rem;
+  color: var(--primaryColor);
+}
+
+#best-seller{
+  padding-top: 3rem;
+  background-color: var(--soft-grey);
+}
+
+#hotels-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+  max-width: 1200px;
+  width: 100%;
+}
+
+
+#hotels-container {
+display: grid;
+grid-template-columns: repeat(3, 1fr);
+gap: 20px;
+max-width: 1200px;
+width: 100%;
+}
+.internalCard {
+border: 1px solid var(--soft-grey);
+border-radius: 10px;
+overflow: hidden;
+box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+background: var(--white);
+text-align: center;
+}
+
+.internalCard img {
+width: 100%;
+height: 200px;
+object-fit: cover;
+}
+
+.card-content {
+padding: 15px;
+}
+
+.internalCard h3 {
+margin: 0;
+font-size: 18px;
+}
+
+.internalCard p {
+margin: 5px 0;
+}
+
+/*Testimonials sction*/
+
+#testimonials {
+  padding: 30px 20px;
+  text-align: center;
+  width: 100%;
+  margin: 0px;
+}
+
+#testimonials h2 {
+  text-align: center;
+}
+
+/* Footer Section */
+footer {
+  background-color: #333;
+  color: white;
+  padding: 20px 0;
+  text-align: center;
+}
+
+footer .footer-content {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+footer .footer-links a {
+  color: white;
+  margin: 0 10px;
+  text-decoration: none;
+}
+
+footer .footer-links a:hover {
+  color: #ff7f50;
+}
+
+/* Media Queries for Responsiveness */
+
+@media (min-width: 1200px) {
+  #services {
+      height: 100vh;
+  }
+}
+@media (max-width: 768px) {
+  #hero h1 {
+    font-size: 2.5rem;
+  }
+
+  #hero p {
+    font-size: 1.2rem;
+  }
+
+  #services {
+      max-height: fit-content;
+  }
+
+  .services-container {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .service {
+    width: 80%;
+    margin: 20px 0;
+  }
+
+  .destinations-container {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .destination {
+    width: 80%;
+    margin-bottom: 20px;
+  }
+
+  #testimonials {
+      height: fit-content;
+  }
+
+  .cta-button {
+    padding: 12px 25px;
+  }
+}

@@ -1,0 +1,239 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  border: none;
+  outline: none;
+  list-style-type: none;
+  scroll-behavior: smooth;
+}
+
+html {
+  font-size: 60%;
+  overflow-x: hidden;
+}
+
+
+:root {
+  --primaryColor: #008080;
+  --white: #FFFFFF; 
+  --soft-grey: #F5F5F5; 
+  --black: #000000; 
+  --Forest-Green: #2E8B57; 
+  --Sand-Beige: #F4A460; 
+  --Clay-Orange: #D2691E; 
+  --Golden-Yellow: #FFD700; 
+  --Deep-Brown: #8B4513; 
+}
+
+/*Header section*/
+
+#header {
+  position: sticky;
+  top: 0;
+  background-color: var(--white);
+}
+
+.logo {
+display: flex;
+align-items: center;
+}
+
+.logo h3 {
+color: var(--primaryColor);
+}
+
+#logo-img {
+  width: 4em;
+  margin-left: 1em;
+  margin-right: 1rem;
+}
+
+.color-style {
+  color: var(--primaryColor);
+}
+
+.bg-color {
+  background-color: var(--primaryColor);
+}
+
+.btn-outline-style{
+  border: 0.5px solid var(--primaryColor);
+}
+
+.text-hover:hover {
+  color: var(--Sand-Beige);
+}
+
+.button-hover:hover {
+  background-color: var(--Sand-Beige);
+}
+
+/* Hero Section */
+#about-hero {
+  background-image: url(/img/travel-bg.jpg);
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  color: white;
+}
+
+#about-hero h1 {
+  font-size: 3rem;
+  color: var(--black);
+}
+
+#about-hero p {
+  font-size: 1.5rem;
+  margin-top: 10px;
+  color: var(--Deep-Brown);
+
+}
+
+/* Mission Section */
+#mission {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  padding: 50px 20px;
+  text-align: center;
+  height: 100vh;
+}
+
+#mission-box {
+  text-align: start;
+  max-width: 50%;
+}
+
+#mission img {
+  margin: 3rem;
+  width: auto;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 8px;
+}
+
+#mission h2 {
+  font-size: 3rem;
+  margin-bottom: 20px;
+}
+
+#mission p {
+  font-size: 1.2rem;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+/* Features Section */
+/* Services Section */
+
+#services {
+  padding: 30px 20px;
+  text-align: center;
+  background-color: var(--soft-grey);
+}
+
+.services-content {
+  margin-top: 5rem;
+}
+
+#services h2 {
+  font-size: 2.5rem;
+  margin-bottom: 30px;
+}
+
+.services-container {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.service {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-color: var(--white);
+  border-radius: 8px;
+  padding: 20px;
+  width: 250px;
+  height: 250px;
+  margin: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.service i {
+  color: #D2691E; 
+  font-size: 3rem;
+  margin-bottom: 30px;
+}
+
+.service h3 {
+  font-size: 1.5rem;
+  margin-bottom: 10px;
+}
+
+.service p {
+  font-size: 1rem;
+}
+
+/* Footer Section */
+footer {
+  background-color: #333;
+  color: white;
+  padding: 20px 0;
+  text-align: center;
+}
+
+footer .footer-content {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+footer .footer-links a {
+  color: white;
+  margin: 0 10px;
+  text-decoration: none;
+}
+
+footer .footer-links a:hover {
+  color: #ff7f50;
+}
+
+/* Media Queries for Responsiveness */
+@media (max-width: 768px) {
+  #about-hero h1 {
+    font-size: 2.5rem;
+  }
+
+  #about-hero p {
+    font-size: 1.2rem;
+  }
+
+  #mission {
+      flex-direction: column;
+  }
+
+  #features {
+    padding: 30px 20px;
+  }
+
+  .feature {
+    margin-bottom: 15px;
+  }
+
+  .team-member {
+    width: 80%;
+    margin-bottom: 20px;
+  }
+
+  #mission p {
+    font-size: 1rem;
+  }
+}
