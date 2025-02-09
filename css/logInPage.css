@@ -1,0 +1,213 @@
+:root {
+    --white: #FFFFFF; 
+    --soft-grey: #F5F5F5; 
+    --black: #000000; 
+    --Forest-Green: #2E8B57; 
+    --primaryColor: #008080;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    border: none;
+    outline: none;
+    list-style-type: none;
+    scroll-behavior: smooth;
+}
+
+html {
+    font-size: 60%;
+    overflow-x: hidden;
+}
+
+::-webkit-scrollbar {
+    width: 7px;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: var(--primaryColor);
+    border-radius: 2em;
+}
+
+::-webkit-scrollbar-track {
+    background-color: var(--soft-grey);
+    margin-block: .3rem;
+}
+
+body {
+    text-align: center;
+    background-color: var(--white);
+}
+
+
+#header {
+    position: sticky;
+    top: 0;
+    background-color: var(--white);
+    z-index: 1000;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+}
+
+.logo h3 {
+  color: var(--primaryColor);
+}
+
+#logo-img {
+    width: 4em;
+    margin-left: 1em;
+    margin-right: 1rem;
+}
+
+.color-style {
+    color: var(--primaryColor);
+}
+
+.bg-color {
+    background-color: var(--primaryColor);
+}
+
+.btn-outline-style{
+    border: 0.5px solid var(--primaryColor);
+}
+
+.text-hover:hover {
+    color: var(--Sand-Beige);
+}
+
+.button-hover:hover {
+    background-color: var(--Sand-Beige);
+}
+
+.logoContainer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.logoContainer>span {
+    font-size: 2.5rem;
+    color: var(--primaryColor);
+}
+.logo{
+    height: 5rem;
+    margin-left: 8rem;
+}
+
+.btnContainer :nth-child(1){
+    background-color: var(--primaryColor);
+    border: 2px solid var(--primaryColor) ;
+}
+.btnContainer :nth-child(2){
+    background-color: var(--Forest-Green);
+    border: 2px solid var(--Forest-Green) ;
+}
+.btn1 {
+    font-size: 2rem;
+    padding: 1rem 3rem;
+    border-radius: 3rem;
+    color: var(--white);
+    cursor: pointer;
+}
+
+.btn1:hover{
+    background-color: transparent;
+}
+
+
+
+.container {
+    max-width: 400px;
+    margin: 50px auto;
+    padding: 20px;
+    background: var(--white);
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px var(--primaryColor);
+    height: 404px;
+    font-size: 16px;
+}
+.container > h1{
+    padding-top: 50px;
+}
+input, button {
+    margin: 10px;
+    padding: 10px;
+    width: 90%;
+    border: 1px solid var(--primaryColor);
+    border-radius: 5px;
+}
+
+button {
+    background-color: var(--primaryColor);
+    color: var(--white);
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: transparent;
+    color: var(--primaryColor);
+}
+
+a {
+    color: var(--primaryColor);
+}
+
+
+  footer {
+    background-color: #333;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+  }
+  
+  footer .footer-content {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  footer .footer-links a {
+    color: white;
+    margin: 0 10px;
+    text-decoration: none;
+  }
+  
+  footer .footer-links a:hover {
+    color: #ff7f50;
+}
+  @media (max-width: 768px) {
+    .btn1{
+        display: none ;
+    }
+    .container {
+        padding: 10px;
+    }
+
+    header {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    header .btnContainer {
+        margin-top: 10px;
+    }
+
+    footer {
+        position: static;
+        padding: 20px;
+    }
+}
+
+@media (max-width: 480px) {
+    header .logoContainer img {
+        width: 40px;
+    }
+
+    header .btnContainer a {
+        margin-left: 0;
+        margin-top: 5px;
+    }
+}
