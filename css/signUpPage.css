@@ -30,6 +30,10 @@ html {
     width: 7px;
 }
 
+main {
+    height: 100vh;
+}
+
 ::-webkit-scrollbar-thumb{
     background-color: var(--primaryColor);
     border-radius: 2em;

@@ -9,34 +9,23 @@
 </head>
 <body>
 
-    <nav class="navbar navbar-expand-lg rounded" aria-label="Thirteenth navbar example">
-        <div class="container-fluid">
-          <button class="navbar-toggler collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#navbarsExample11" aria-controls="navbarsExample11" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-          </button>
-  
-          <div class="navbar-collapse d-lg-flex collapse" id="navbarsExample11">
-            <a class="navbar-brand col-lg-3 me-0" href="#">
-                <img src="../Img/Logo.webp" alt="Logo Image" width="40rem">
-                <span class="logoImg">Tripify</span>
-            </a>
-            <ul class="navbar-nav col-lg-6 justify-content-lg-center">
-              <li class="nav-item">
-                <a class="nav-link active me-5" aria-current="page" href="#">Profile</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link active me-5 navText" aria-current="page" href="./homePage.html">Home</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link active me-5" aria-current="page" href="./wishLixtPage.html">Wish list</a>
-              </li>
-            </ul>
-            <div class="d-lg-flex col-lg-3 justify-content-lg-end">
-              <button id="logout-btn" class="btn">LogOut</button>
-            </div>
-          </div>
-        </div>
-      </nav>
+  <header id="header" class="d-flex flex-wrap align-items-center justify-content-center justify-content-md-between py-3 border-bottom">
+    <div class="col-md-3 mb-2 mb-md-0 logo">
+      <a href="/" class="d-inline-flex link-body-emphasis text-decoration-none">
+        <img id="logo-img" src="/img/Logo.webp" alt="logo">
+      </a>
+      <h3>Tripify</h3>
+    </div>
+    <ul class="nav col-12 col-md-auto mb-2 justify-content-center mb-md-0">
+      <li><a href="homePage.html" class="nav-link px-2 color-style text-hover text-click">Home</a></li>
+      <li><a href="profilePage.html" class="nav-link px-2 color-style text-hover text-click">Profile</a></li>
+      <li><a href="wishListPage.html" class="nav-link px-2 color-style text-hover text-click">Wish List</a></li>
+      <li><a href="contactUs.html" class="nav-link px-2 color-style text-hover text-click">Contact us</a></li>
+    </ul>
+    <div class="col-md-3 text-end" style="margin: 0 1rem;">
+      <button id="logout-btn" type="button" class="btn btn-outline-primary me-2 btn-outline-style color-style button-hover" onclick="window.location.href = './html/logInPage.html';">Log out</button>
+    </div>
+  </header>
 
 
     <div class="profile-container">
